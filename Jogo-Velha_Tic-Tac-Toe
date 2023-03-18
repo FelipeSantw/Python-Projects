@@ -1,4 +1,4 @@
-#4.6.2.1 PROJETO: Tic-Tac-Toe
+#4.6.2.1 PROJETO: Tic-Tac-Toe;
 
 from random import randrange
 
